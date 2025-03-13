@@ -1,30 +1,44 @@
-## 🔷 自己紹介
-こんにちは、るんく君と申します！  
-主にウェブ関係のフロントエンドからバックエンドまでのプロジェクトの開発を行っております。  
-何卒宜しくお願い致します！  
-### 使用しているもの
-![html](https://user-images.githubusercontent.com/91005690/235446275-7e8448b7-fca1-4fd1-9b3d-6d5339c8f1ce.png)
-![css](https://user-images.githubusercontent.com/91005690/235446603-d11c18e3-087d-4f84-a107-dd049b69e649.png)
-![js](https://user-images.githubusercontent.com/91005690/235447042-6e1ee467-1587-4027-91d3-8ada855f4288.png)
-![php](https://user-images.githubusercontent.com/91005690/235447299-d321dc2d-6845-45d2-bc51-de7217f5e933.png)
-![python](https://user-images.githubusercontent.com/91005690/235447626-639841e4-04d8-4d4c-9184-86fd71d12c39.png)
----
-![mysql](https://github.com/RunqRun/RunqRun/assets/91005690/78dbac1e-a3f9-4421-ad95-57dc73e04bc0)
-![mariadb](https://github.com/RunqRun/RunqRun/assets/91005690/9e4fef52-e9c8-421a-90d0-4b4c1819b419)
-![mongodb](https://github.com/RunqRun/RunqRun/assets/91005690/0252aeef-59d3-40e5-baac-0f822105df61)
----
-![tailwindcss](https://user-images.githubusercontent.com/91005690/235447840-69f80c7b-236c-434c-bda7-4eecbd84c21f.png)
-![bootstrap](https://user-images.githubusercontent.com/91005690/235448011-17ae6688-9a17-45de-b1b3-a3e179bb4882.png)
----
-![vscode](https://user-images.githubusercontent.com/91005690/235448590-f6d72211-e0d5-4436-830d-ed24cc4c8d85.png)
-![jupyternb](https://user-images.githubusercontent.com/91005690/235449974-0057f934-45e1-44af-9b93-8e81242adb5f.png)
-### 勉強中 (勉強予定)
-![235446275-7e8448b7-fca1-4fd1-9b3d-6d5339c8f1ce](https://github.com/RunqRun/RunqRun/assets/91005690/f50a05ba-8a19-49ae-82a0-6d12207be1f5)
-![ts](https://user-images.githubusercontent.com/91005690/235449185-87d1b5ad-8c81-4af6-b6ca-4854358b4c4c.png)
-![react](https://user-images.githubusercontent.com/91005690/235449464-e6edbca1-5d9e-4664-9553-4c1b5374d607.png)
-![vuejs](https://user-images.githubusercontent.com/91005690/235449648-ff082be1-56e8-478c-b675-5b51f9f5eb2f.png)
-![nodejs](https://user-images.githubusercontent.com/91005690/235449879-aafe9a13-5baa-473d-b4d6-19906fe0bf9e.png)
+# INTRODUCTION
+__るんく君（Run Qrun）__
+* Web Fullstack Enginner
+* Infrastructure/Software Enginner
+* Server/Network Enginner 
+* Mobile Application Developer
+## MY STACKS
+### Design
+![Static Badge](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-GoogleFonts-4285F4?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge)
+### Web Frontend
+![Static Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-NextJS-000000?style=for-the-badge)
+### Web Backend
+![Static Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-NodeJS-5FA04E?style=for-the-badge)
+### Database
+![Static Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge)
+### Minecraft
+![Static Badge](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-Skript-000000?style=for-the-badge)
+### Software&App Development
+![Static Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-Dart(Flutter)-02569B?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge)
 
-## 🔷 所属チーム
- - Team Nekozouneko
+### Other
+![Static Badge](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge)
+
+## ORGANIZATIONS
+### Nekozouneko Group
+* Executive
+* General Manager
+* Admin
+* Developer
 
