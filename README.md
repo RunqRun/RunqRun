@@ -30,7 +30,6 @@ __るんく君（Run Qrun）__
 ![Static Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/-Dart(Flutter)-02569B?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge)
 
 ### Other
 ![Static Badge](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge)
